@@ -1,0 +1,106 @@
+Enter total amount of memory: 
+Enter number of stacks: 
+Enter value of L0: 
+          4         11         18         24
+Enter your data (Type q to quit): Location          25 = ZHOU
+Enter your data (Type q to quit): Location          26 = WEI
+Enter your data (Type q to quit): Location           5 = BURRIS
+Enter your data (Type q to quit): Location          12 = ZHOU
+Enter your data (Type q to quit): Location          13 = SHASHIDHAR
+Enter your data (Type q to quit): Location          19 = DEERING
+Enter your data (Type q to quit): Location          14 = AN
+Enter your data (Type q to quit): Location          15 = DEERING
+Enter your data (Type q to quit): Location          20 = LESTER
+Enter your data (Type q to quit): Location           6 = YANG
+Enter your data (Type q to quit): Location          21 = SMITH
+Enter your data (Type q to quit): Location          16 = WEI
+Enter your data (Type q to quit): Location          17 = ZHOU
+Enter your data (Type q to quit): Overflow, Reallotcating...Location           5 = BURRIS
+Location           6 = YANG
+Location          12 = ZHOU
+Location          13 = SHASHIDHAR
+Location          14 = AN
+Location          15 = DEERING
+Location          16 = WEI
+Location          17 = ZHOU
+Location          18 = Location          19 = DEERING
+Location          20 = LESTER
+Location          21 = SMITH
+Location          25 = ZHOU
+Location          26 = WEI
+Memory reallocated, thses are now the new Locations of contents:
+Location           5 = BURRIS
+Location           6 = YANG
+Location           7 = ZHOU
+Location           8 = SHASHIDHAR
+Location           9 = AN
+Location          10 = DEERING
+Location          11 = WEI
+Location          12 = ZHOU
+Location          14 = DEERING
+Location          15 = LESTER
+Location          16 = SMITH
+Location          17 = ZHOU
+Location          18 = WEI
+Location          14= ARCOS
+Enter your data (Type q to quit): Location          14 = ARCOS
+Enter your data (Type q to quit): Location           7 = WEI
+Enter your data (Type q to quit): Location          14 = RABIEH
+Enter your data (Type q to quit): Location           7 = WEI
+Enter your data (Type q to quit): Location           6 = YANG
+Enter your data (Type q to quit): Location          15 = SONG
+Enter your data (Type q to quit): Location          16 = CHO
+Enter your data (Type q to quit): Location          16 = CHO
+Enter your data (Type q to quit): Location          17 = VAROL
+Enter your data (Type q to quit): Overflow, Reallotcating...Location           5 = BURRIS
+Location           7 = WEI
+Location           8 = SHASHIDHAR
+Location           9 = AN
+Location          10 = DEERING
+Location          11 = WEI
+Location          12 = ZHOU
+Location          13 = SHASHIDHAR
+Location          14 = RABIEH
+Location          15 = SONG
+Location          16 = CHO
+Location          17 = VAROL
+Location          14 = RABIEH
+Location          15 = SONG
+Location          16 = CHO
+Location          17 = VAROL
+Location          18 = WEI
+Memory reallocated, thses are now the new Locations of contents:
+Location           5 = BURRIS
+Location           6 = WEI
+Location           7 = SHASHIDHAR
+Location           8 = AN
+Location           9 = DEERING
+Location          10 = WEI
+Location          11 = ZHOU
+Location          12 = SHASHIDHAR
+Location          13 = RABIEH
+Location          14 = SONG
+Location          15 = CHO
+Location          16 = VAROL
+Location          14 = SONG
+Location          15 = CHO
+Location          17 = VAROL
+Location          18 = WEI
+Location          17= KARABIYIK
+Enter your data (Type q to quit): Location           6 = COOPER
+Enter your data (Type q to quit): Location           7 = SMITH
+Enter your data (Type q to quit): Location           8 = MCGUIRE
+Enter your data (Type q to quit): Location          18 = NAJAR
+Enter your data (Type q to quit): Location          17 = AN
+Enter your data (Type q to quit): Location           9 = ZHOU
+Enter your data (Type q to quit): Location          17 = AN
+Enter your data (Type q to quit): Location          17 = DEERING
+Enter your data (Type q to quit): Location          10 = BURRIS
+Enter your data (Type q to quit): Location          18 = CHO
+Enter your data (Type q to quit): Location          19 = MCGUIRE
+Enter your data (Type q to quit): Location          19 = HOPE
+Enter your data (Type q to quit): Location          20 = PRAY
+Enter your data (Type q to quit): Location          21 = NOHOPE
+Enter your data (Type q to quit): 
+
+raised ADA.IO_EXCEPTIONS.END_ERROR : a-textio.adb:506
